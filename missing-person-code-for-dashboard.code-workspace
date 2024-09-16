@@ -1,8 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../../datascience-projects/missing-project"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../../datascience-projects/missing-project"
+        }
+    ]
 }
